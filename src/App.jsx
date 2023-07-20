@@ -1,10 +1,11 @@
 import "./App.css";
+import Titulos from "./Componentes/Titulos";
 
 function App() {
   return (
-    <div>
-      <h1>Primer app </h1>
-    </div>
+    <>
+      <Titulos></Titulos>
+    </>
   );
 }
 export default App;
